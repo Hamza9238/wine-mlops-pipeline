@@ -1,6 +1,6 @@
 # Wine MLOps Pipeline 🍷
 
-[![CI Pipeline](https://github.com/myousafrehan/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/myousafrehan/wine-mlops-pipeline/actions)
+[![CI Pipeline](https://github.com/Hamza9238/wine-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Hamza9238/wine-mlops-pipeline/actions)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![MLflow](https://img.shields.io/badge/MLflow-2.21.3-0194E2.svg)
 ![License](https://img.shields.io/badge/Coursework-FAST--NUCES-red.svg)
