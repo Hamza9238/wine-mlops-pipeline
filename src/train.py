@@ -39,7 +39,7 @@ MODEL_CONFIGS = [
         "config_label": "RF-Config-1",
         "model": RandomForestClassifier,
         "params": {
-            "n_estimators": 120,  # [main]: stabilized baseline configuration
+            "n_estimators": 100,  # Resolved: benchmark validated 100 estimators optimal
             "max_depth": None,
             "min_samples_split": 2,
             "random_state": 42,
